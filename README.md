@@ -81,6 +81,17 @@ This repository contains all project components required to understand, reproduc
 
 - **[src](src)**  
   - Python scripts for data ingestion, data cleaning, transformation, and database operations.
+ ## 🧮 DAX Calculations (Power BI)
+
+DAX (Data Analysis Expressions) was used in Power BI to create calculated tables that enable advanced vendor, brand, and inventory performance analysis without modifying the source data.
+
+- **Brand Performance Analysis:** Aggregated total sales and average profit margin at the brand level to evaluate revenue contribution and profitability.
+- **Low Inventory Turnover Identification:** Identified vendors with low stock turnover to highlight slow-moving inventory and operational inefficiencies.
+- **Vendor Purchase Contribution:** Calculated total purchase value per vendor to assess supplier dependency and concentration risk.
+- **Top Vendor Analysis:** Filtered and analyzed top vendors by purchase rank to support strategic sourcing and risk management.
+
+These DAX calculations power key dashboard KPIs such as **Total Sales, Total Purchase, Gross Profit, Profit Margin, Unsold Inventory Capital**, and **Top Vendors/Brands by Sales**, enabling interactive and insight-driven business intelligence reporting.
+
 
 ## 📊 Key Analysis & Insights
 
