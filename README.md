@@ -31,8 +31,7 @@ This project highlights practical skills in data engineering, exploratory data a
 ## 🔄 Project Workflow
 
 1. **Data Collection**
-  - Downloaded the raw dataset from a publicly available external source for educational and analytical purposes.
-
+   - Downloaded the raw dataset from a publicly available external source for educational and analytical purposes.
 
 2. **Initial Data Exploration**
    - Performed a preliminary review of the raw data to understand structure, data types, and key metrics.
