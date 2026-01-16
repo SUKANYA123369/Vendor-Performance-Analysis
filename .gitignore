@@ -1,15 +1,19 @@
-# Raw & processed data
+# Raw data
 data/raw/
-data/processed/
-*.csv
+
+# Databases
 *.db
+
+# Ignore all CSVs EXCEPT processed ones
+*.csv
+!data/processed/
+!data/processed/*.csv
 
 # Logs
 logs/
 
-# Jupyter
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
-# Python cache
-__pycache__/
-*.pyc
+
