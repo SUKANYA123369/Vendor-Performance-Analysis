@@ -10,6 +10,10 @@ The workflow covers the entire analytics lifecycle, including data ingestion, da
 
 This project highlights practical skills in data engineering, exploratory data analysis (EDA), statistical reasoning, and dashboard development, making it suitable for real-world business intelligence and analytics use cases.
 
+## 🧩 Data Analytics Pipeline
+
+![End-to-End Data Analytics Pipeline](pipeline.png)
+
 ## 🛠️ Tools & Technologies Used
 
 - **Database:** SQLite  
