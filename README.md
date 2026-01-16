@@ -152,7 +152,7 @@ By implementing these recommendations, organizations can improve profitability, 
 - Performed exploratory data analysis (EDA) to identify trends, outliers, correlations, and inefficiencies in sales and inventory data.
 - Translated analytical findings into **actionable business recommendations** focused on profitability, inventory optimization, and vendor management.
 - Improved understanding of how data processing, analysis, and visualization work together in real-world analytics projects.
-- Developed a well-structured and documented GitHub repository, following **professional data project practices**.
+
 
 This project demonstrates the ability to manage the **full analytics lifecycle** and deliver insights that support data-driven decision-making.
 
