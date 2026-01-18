@@ -12,10 +12,10 @@ This project highlights practical skills in data engineering, exploratory data a
 
 ## 📊 Power BI Dashboard Preview
 
-![Vendor Performance Dashboard](Vendor_Performance_Dashboard.png)
+![Vendor Performance Dashboard](powerbi_dashboard/Vendor_Performance_Dashboard.png)
 
-> Power BI dashboard showcasing sales, profit, inventory turnover,
-> and vendor performance insights.
+> Power BI dashboard highlighting sales performance, profitability,
+> inventory turnover, and vendor contribution insights.
 
 
 ## 🧩 Data Analytics Pipeline
