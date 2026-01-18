@@ -12,14 +12,11 @@ This project highlights practical skills in data engineering, exploratory data a
 
 ## 📊 Power BI Dashboard Preview
 
-![Power BI Dashboard](powerbi_dashboard/dashboard.png)
+![Vendor Performance Dashboard](Vendor_Performance_Dashboard.png)
 
-**Key KPIs Visualized:**
-- Total Sales & Total Purchase
-- Gross Profit & Profit Margin
-- Unsold Inventory Capital
-- Top Vendors & Brands by Sales
-- Inventory Turnover Performance
+> Power BI dashboard showcasing sales, profit, inventory turnover,
+> and vendor performance insights.
+
 
 ## 🧩 Data Analytics Pipeline
 
