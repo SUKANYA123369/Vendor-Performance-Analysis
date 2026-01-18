@@ -10,6 +10,17 @@ The workflow covers the entire analytics lifecycle, including data ingestion, da
 
 This project highlights practical skills in data engineering, exploratory data analysis (EDA), statistical reasoning, and dashboard development, making it suitable for real-world business intelligence and analytics use cases.
 
+## 📊 Power BI Dashboard Preview
+
+![Power BI Dashboard](powerbi_dashboard/dashboard.png)
+
+**Key KPIs Visualized:**
+- Total Sales & Total Purchase
+- Gross Profit & Profit Margin
+- Unsold Inventory Capital
+- Top Vendors & Brands by Sales
+- Inventory Turnover Performance
+
 ## 🧩 Data Analytics Pipeline
 
 ![End-to-End Data Analytics Pipeline](pipeline.png)
